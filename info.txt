@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Ubuntu-R
+font link: https://fonts.google.com/specimen/Ubuntu
+font author: Dalton Maag
+font author site: http://www.daltonmaag.com/
+
+
+icon designer: Mario Bieh
+icon designer link: /bieh
+        
+{"bg":"transparent","icon-gradient-0":"#5F2517","icon-gradient-1":"#CAB08D","font":"#000000","slogan":"#141414"}
+      
